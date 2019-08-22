@@ -1,0 +1,19 @@
+{
+  "name": "gpucomputationrender-threejs",
+  "version": "0.0.2",
+  "description": "",
+  "main": "GPUComputationRenderer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englandrp/gpucomputationrender-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/englandrp/gpucomputationrender-threejs/issues"
+  },
+  "homepage": "https://github.com/englandrp/gpucomputationrender-threejs#readme"
+}
